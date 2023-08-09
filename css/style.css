@@ -3245,7 +3245,9 @@ h6,
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
   background-color: white;
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075)!important;
 }
+
 
 .navbar-expand-lg .navbar-collapse {
    
